@@ -1,0 +1,23 @@
+{
+  "idCount": {
+    "count": 8
+  },
+  "todos": [
+    {
+      "id": 2,
+      "text": "Do Laundry",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Begin Project",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "text": "build back better",
+      "complete": false
+    }
+  ],
+  "currentTodo": {}
+}
